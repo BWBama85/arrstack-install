@@ -1,6 +1,6 @@
 ## Description: Arr Fedora install
 
-Rewritten for RPM based Linux distributions.
+Rewritten for RPM based Linux distributions along with code cleanup.
 
 Originally written for Radarr by: DoctorArr - doctorarr@the-rowlands.co.uk on 2021-10-01 v1.0.
 
